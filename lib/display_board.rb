@@ -2,7 +2,7 @@
 
 def display_board(board)
   puts "A 3x3 Tic Tac Toe Board"
-  puts "   " | #{board[1]} | #{board[2]} "
+  puts "   ", | "   ", | "   "
   puts "-----------"
   puts " #{board[3]} | #{board[4]} | #{board[5]} "
   puts "-----------"

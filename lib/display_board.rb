@@ -2,9 +2,9 @@
 
 def display_board
   puts "A 3x3 Tic Tac Toe Board"
-  row = [ "   ", | "   ", | "   "]
+  puts "   ", "|", "   ", "|", "   "
   puts "-----------"
-  row = [ "   ", | "   ", | "   "]
+  puts "   ", "|", "   ", "|", "   "
   puts "-----------"
-  row = [ "   ", | "   ", | "   "]
+  puts "   ", "|", "   ", "|", "   "
 end
